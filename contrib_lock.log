@@ -544,3 +544,4 @@
 2026-06-17 15:41:48 - Add WHEEL
 2026-06-17 17:20:12 - Add _compat.py
 2026-06-17 20:25:33 - Add constants.py
+2026-06-17 17:17:14 - Add pkgconfig.py
