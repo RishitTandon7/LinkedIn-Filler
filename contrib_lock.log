@@ -759,3 +759,4 @@
 2026-06-19 18:38:13 - Add _subprocesses.py
 2026-06-19 20:19:35 - Add exception_handlers.py
 2026-06-19 08:03:05 - Add hmac.pyi
+2026-06-19 13:54:43 - Add x509.pyi
