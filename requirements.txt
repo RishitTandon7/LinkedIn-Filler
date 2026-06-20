@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+ollama
+PyPDF2
+python-dotenv
+langgraph
+playwright
+beautifulsoup4
+python-multipart
